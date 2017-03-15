@@ -57,15 +57,9 @@ What would a perfect solution look like?
 ![A Perfect Drools Solution](images/drools_with_drools.svg)
 
 
-Imperative | Declarative
+Declarative, not imperative
 
-or
-
-Java vs Drools
-
-or
-
-C vs Prolog
+Think SQL, Prolog
 
 
 Rules are great for:

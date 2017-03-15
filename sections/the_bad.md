@@ -32,3 +32,5 @@ Can you spot the error?
 IDE support isn't fantastic
 
 (highlight.js was modified by a colleague for this talk)
+
+(Eclipse is actually pretty great)

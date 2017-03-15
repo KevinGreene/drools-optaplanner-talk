@@ -1,6 +1,9 @@
 Anatomy of a Rule
 
 
+If Conditions => Do Actions
+
+
 ```drools
 rule "Human Readable Description"
 when

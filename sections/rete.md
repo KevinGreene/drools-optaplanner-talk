@@ -1,4 +1,4 @@
-## Is it fast?
+Is it fast?
 
 
 Yes, thanks to him!
