@@ -5,8 +5,6 @@ Rules aren't great for business stakeholders
 
 (not as much as marketing teams suggest)
 
-// Explain anecdotes and marketing speak
-
 
 Rules still require thought and discipline up front
 

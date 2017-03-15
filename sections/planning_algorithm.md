@@ -27,6 +27,8 @@ Bendable Score
 
 ## Data Design
 
+Specifically OptaPlanner, but should work with others.
+
 
 ## Solution
 

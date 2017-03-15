@@ -47,7 +47,7 @@ rule "buy ten fish get a tank half off"
                          product.type == ProductType.FISH)
         sum($item.getQuantity()))
 
-    $tankITem: OrderItem(order == $order,
+    $tankItem: OrderItem(order == $order,
                          product.type == ProductType.FISH_TANK)
     then:
         OrderDiscount discount = new OrderDiscount($order, $tankItem, 0.5, $reason);
@@ -124,6 +124,6 @@ When you have 30 different types of discounts with complex requirements...
 
 Lots of other features like:
 
-* Declaring types in drools
+* Declaring types in Drools
 * Extending types with traits
 * Cron-like timers

@@ -1,4 +1,4 @@
-Why should you use drools?
+Why should you use Drools?
 
 
 Complicated contracts
