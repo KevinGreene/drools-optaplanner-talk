@@ -7,3 +7,6 @@ Yes, thanks to him!
 
 
 ![Rete Algorithm](images/rete.svg)
+
+
+![Rete Domain](images/rete_domain.jpg)
